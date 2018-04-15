@@ -13,6 +13,7 @@ Android-DemoHello
 ---
 # Android-DemoHello 
 > 範例程式碼下載點：[按這裡](http://bit.ly/2qzaVE5)
+
 > 影片教學：：[按這裡](http://bit.ly/2HAmyCS)
 
 ![](https://i.imgur.com/wausXCG.jpg)
