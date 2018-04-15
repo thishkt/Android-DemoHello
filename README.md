@@ -1,6 +1,3 @@
-Android-DemoHello 
-===
-
 # 從零開始學 kotlin 程式設計
 ![](https://i.imgur.com/wbyhsUH.jpg)
 
@@ -67,3 +64,10 @@ Android-DemoHello
 「本資料」，其中所引用之各商標及產品名稱分屬其合法公司所有，「本資料」，部分採用開放源始碼、圖文與影音等多媒體，引用自於網路，皆屬於其原作者之所有，「本資料」引用純屬介紹之用，並無任何侵權之意，特此聲明，其中內容若有不妥，或是侵犯了您的合法權益，請麻煩通知我們，我們將會迅速協助將侵權的部分移除，謝謝!
 
 *有任何問題，麻煩聯繫，謝謝。
+
+# 〈合作邀約〉
+歡迎高中、大專院校及公司等團體研習活動邀約
+
+FB Messenger: https://www.facebook.com/hktblog
+
+e-mail: thishkt@gmail.com
